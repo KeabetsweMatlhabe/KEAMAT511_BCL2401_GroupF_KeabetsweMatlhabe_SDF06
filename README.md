@@ -4,7 +4,7 @@
 ## **6.15 CodeSpace Pets Instagram Profile Project**
 
 ### Overview
-
+In this project, I recreated a simplified version of an Instagram profile page focusing on CSS layout and styling. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices.
 
 ### Reflections
 
